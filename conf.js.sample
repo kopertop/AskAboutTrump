@@ -1,0 +1,7 @@
+/**
+ * Copy this to "conf.js" and set the following variables
+ */
+exports.ALGOLIA = {
+	app_id: 'ALGOLIA_APP_ID',
+	key: 'ALGOLIA_ACCESS_KEY',
+};
